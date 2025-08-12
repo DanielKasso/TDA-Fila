@@ -1,2 +1,2 @@
 # Estruturas de Dados I
-Implementação de TDA Lista com java Utilizando ponteioros
+Implementação de TDA Lista com java Utilizando ponteiros
